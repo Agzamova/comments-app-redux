@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/comments-app-redux/static/css/main.6350144e.chunk.css",
+    "main.js": "/comments-app-redux/static/js/main.8d4fe34b.chunk.js",
+    "main.js.map": "/comments-app-redux/static/js/main.8d4fe34b.chunk.js.map",
+    "runtime-main.js": "/comments-app-redux/static/js/runtime-main.dca1c2f8.js",
+    "runtime-main.js.map": "/comments-app-redux/static/js/runtime-main.dca1c2f8.js.map",
+    "static/js/2.499e7044.chunk.js": "/comments-app-redux/static/js/2.499e7044.chunk.js",
+    "static/js/2.499e7044.chunk.js.map": "/comments-app-redux/static/js/2.499e7044.chunk.js.map",
+    "index.html": "/comments-app-redux/index.html",
+    "precache-manifest.cf79e023cdcacbdec004bd05f97ce042.js": "/comments-app-redux/precache-manifest.cf79e023cdcacbdec004bd05f97ce042.js",
+    "service-worker.js": "/comments-app-redux/service-worker.js",
+    "static/css/main.6350144e.chunk.css.map": "/comments-app-redux/static/css/main.6350144e.chunk.css.map",
+    "static/js/2.499e7044.chunk.js.LICENSE.txt": "/comments-app-redux/static/js/2.499e7044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca1c2f8.js",
+    "static/js/2.499e7044.chunk.js",
+    "static/css/main.6350144e.chunk.css",
+    "static/js/main.8d4fe34b.chunk.js"
+  ]
+}
